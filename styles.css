@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+}
+
+link {
+    color: white;
+    
+}
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    text-align: center;
+}
+ .headline {
+    color: aliceblue;
+ }
+
+ img {
+    height: auto;
+    width: 500px;
+
+ }
